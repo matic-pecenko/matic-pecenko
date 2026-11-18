@@ -9,6 +9,7 @@ Dobrodošel na mojem GitHub profilu! Sem na začetku svoje programske poti in se
 #### 👨‍💻 O meni
 - 🔭 **Trenutno ustvarjam:** Svoj prvi GitHub projekt v sklopu šolske naloge.
 - 🌱 **Trenutno se učim:** Raziskujem svet odprtokodnih projektov in se učim delati z repozitoriji.
+- 🖥️ **Rad spoznavam nova tehnološka področja**
 
 
 #### 🛠️ Kaj trenutno uporabljam
