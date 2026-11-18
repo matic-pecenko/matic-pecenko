@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**matic-pecenko/matic-pecenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Živijo, sem Matic Pečenko 👋
+
+
+Dobrodošel na mojem GitHub profilu! Sem na začetku svoje programske poti in se veselim ustvarjanja svojih prvih digitalnih sledi. 
+
+#### 👨‍💻 O meni
+- 🔭 **Trenutno ustvarjam:** Svoj prvi GitHub projekt v sklopu šolske naloge.
+- 🌱 **Trenutno se učim:** Raziskujem svet odprtokodnih projektov in se učim delati z repozitoriji.
+
+
+#### 🛠️ Kaj trenutno uporabljam
+- GitHub (Commits, Issues, Markdown)
+- Canva (za digitalne predstavitve)
+- HTML & CSS
+- JAVA
+  
+
+#### 📫 Kako stopiti v stik z mano
+* Pošlji mi [e-mail](Matic.pecenko7@gmail.com) 
